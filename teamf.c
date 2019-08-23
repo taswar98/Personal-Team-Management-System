@@ -1,13 +1,11 @@
-//
-// EECS2031 team.c
+
 //
 // Program for maintaining a personal team.
 //
 //
 // Uses a linked list to hold the team players.
 //
-// Author: taswar98
-// Student Info: 215095078
+//Author: Taswar
 
 
 #include <stdio.h>
@@ -18,11 +16,7 @@
 
 //**********************************************************************
 // Linked List Definitions
-//  Define your linked list node and pointer types
-//  here for use throughout the file.
-//
-//
-//   ADD STATEMENT(S) HERE -- done
+
 
 struct Player {
     char *first_name, *family_name;
@@ -34,10 +28,7 @@ struct Player {
 //**********************************************************************
 // Linked List Function Declarations
 //
-// Functions that modify the linked list.
-//   Declare your linked list functions here.
-//
-//   ADD STATEMENT(S) HERE
+
 
 struct Player *createNewPlayer(char first_name[], char family_name[], char position, int value);
 int insertPlayer(struct Player *p, struct Player **team);
