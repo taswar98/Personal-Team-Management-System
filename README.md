@@ -18,6 +18,7 @@ Once the user presses 'I', they are prompted with the input of the player "Famil
 The user input to position should be as follows:
 
 =====Input=====
+
 'S' = Striker
 'M' = Midfielder 
 'D' = Defender 
