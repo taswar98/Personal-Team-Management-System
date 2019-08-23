@@ -20,9 +20,13 @@ The user input to position should be as follows:
 =====Input=====
 
 'S' = Striker
-'M' = Midfielder 
+
+'M' = Midfielder
+
 'D' = Defender 
+
 'G' = GoalKeeper
+
 
 After atleast one entry, user may "Print" or "Search" using the 'P' and 'V' commands respectively. 
 Finally the user may choose to quit the program using 'Q' command
