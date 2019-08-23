@@ -7,10 +7,15 @@
 Once the program is launched, The user commands are:
 
 'I' = Insert
+
 'D' = Delete
+
 'V' = Search (by Value)
+
 'P' = Print (The current Team)
+
 'Q' = Quit
+
 
 Once the user presses 'I', they are prompted with the input of the player "Family Name", "First Name", "Position" and "Value"
 (NOTE: If similar family name exists then entry is disposed)
