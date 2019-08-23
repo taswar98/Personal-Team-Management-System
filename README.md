@@ -3,6 +3,7 @@
 * It is assumed that a player in this system does not have similar family names
 
 ===============================================================================
+
 Once the program is launched, The user commands are:
 
 'I' = Insert
