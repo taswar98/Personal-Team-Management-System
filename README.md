@@ -2,7 +2,7 @@
 * This system creates a personalized database for a users soccer team.
 * It is assumed that a player in this system does not have similar family names
 
-===========================================================================================================================
+===============================================================================
 Once the program is launched, The user commands are:
 
 'I' = Insert
@@ -29,6 +29,6 @@ Finally the user may choose to quit the program using 'Q' command
 Author: Taswar 
 Language: C 
 
-===========================================================================================================================
+===================================================================================
 * See the teamf.c file for the codes!
 * Godspeed! 
